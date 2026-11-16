@@ -1,6 +1,6 @@
 # Prewalk
 
-**Prewalk is 360° virtual tour software for real estate and architecture.** It turns 360° photos and equirectangular 3D renders into tours that buyers walk room by room from one link, in the browser on phones, computers and Meta Quest. Nothing to install.
+**Prewalk is 360° virtual tour software for real estate and architecture.** It turns 360° photos and 3D renders into tours buyers walk room by room from one link, in the browser on phones, computers and Meta Quest.
 
 🌐 [prewalk.co](https://prewalk.co) · 📚 [Guides](https://prewalk.co/blog) · ❓ [FAQ](https://prewalk.co/faq) · ✉️ hello@prewalk.co
 
@@ -19,7 +19,7 @@ Tiled loading shows a blurred preview first and sharpens the part the viewer loo
 
 ## Pricing
 
-Free (30 scenes, up to 8K) · Pro $15/month billed yearly · Office $39/month billed yearly · Enterprise from $149/month. Prices in USD. [See plans](https://prewalk.co/pricing).
+Free to start, with Pro, Office and Enterprise plans for professionals and teams. Current plans and prices: [prewalk.co/pricing](https://prewalk.co/pricing).
 
 ## What Prewalk is not
 
