@@ -30,7 +30,7 @@ Prewalk does not create 3D scans or measurements. If you need those, a scanning 
 | Repository | What it does |
 | --- | --- |
 | [equirect-check](https://github.com/prewalkco/equirect-check) | Validate that a 360° panorama is a true 2:1 equirectangular image before upload (browser, Node and CLI). |
-| [virtual-tour-embed-examples](https://github.com/prewalkco/virtual-tour-embed-examples) | Responsive, accessible patterns for embedding a 360° virtual tour on any website. |
+| [virtual-tour-embed-examples](https://github.com/prewalkco/virtual-tour-embed-examples) | Responsive, accessible patterns for embedding a 360° virtual tour on any website, and the [reference for Prewalk embeds](https://github.com/prewalkco/virtual-tour-embed-examples/tree/main/prewalk): tours, projects, portfolios, options, allowed sites and privacy. |
 
 ## Find us
 
